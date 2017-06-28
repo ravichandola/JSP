@@ -1,0 +1,4 @@
+<%@ page import="com.jlcindia.Student"%>
+<hr/>Using useBean and other tags
+
+ <jsp:useBean id="ST" class="com.jlcindia.Student">
